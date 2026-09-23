@@ -11,6 +11,6 @@ int main(){
         if(arr[i]>mx)
         mx = arr[i];
     }
-        cout<<mx;
+    cout<<mx;
     return 0;
 }
